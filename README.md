@@ -55,10 +55,10 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=casscadeofgraymatter&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casscadeofgraymatter&layout=compact&theme=radical" />
-</p>
+<img alt="stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=casscadeofgraymatter&show_icons=true"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casscadeofgraymatter&layout=compact"/>
+
+.
 
 ---
 ### ☕ Support My Work
