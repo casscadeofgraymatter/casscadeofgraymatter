@@ -55,21 +55,6 @@
 
 ### 📈 GitHub Stats
 
-<img alt="stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=casscadeofgraymatter&show_icons=true"/>
+<img alt="stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=casscadeofgraymatter&show_icons=true"/>
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casscadeofgraymatter&layout=compact"/>
 
-.
-
----
-### ☕ Support My Work
-If you enjoy my work, feel free to connect or collaborate!
-
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/casscadeofgraymatter)
-
----
-<!--Footer-->
-<p align="center">
-  <img src=https://github.com/user-attachments/assets/8665ae77-985a-4cf5-a358-3dc9780a6de0
->
-</p>
