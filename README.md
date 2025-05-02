@@ -25,7 +25,7 @@
 
 | Category     | Tools & Technologies |
 |--------------|----------------------|
-| Programming  | Python, Java, JavaScript, SQL, Pandas, Matplotlib, NumPy |
+| Programming  | Python, Java, JavaScript, SQL, Pandas, Matplotlib, NumPy, C# |
 | Web Design   | HTML, CSS, Weebly, Figma |
 | UX / Design  | Canva, Adobe Creative Suite, Maya, Krita |
 | Productivity | Google Suite, Microsoft Office |
