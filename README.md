@@ -14,7 +14,7 @@
 - 🎓 Pursuing a B.A. in Digital Narrative and Interactive Design at the University of Pittsburgh
 - 🧠 TRIO SSS LEAD Scholar
 - 📰 Content creator for the *Horror Matters* newsletter
-- 💡 Passionate about blending narrative design, programming, and user experience
+- 💡 Passionate about blending narrative design, programming, and ux/ui
 
 ---
 <table>
@@ -27,7 +27,7 @@
 |--------------|----------------------|
 | Programming  | Python, Java, JavaScript, SQL, Pandas, Matplotlib, NumPy, C# |
 | Web Design   | HTML, CSS, Weebly, Figma |
-| UX / Design  | Canva, Adobe Creative Suite, Maya, Krita |
+| UX/UI / Design  | Canva, Adobe Creative Suite, Maya, Krita |
 | Productivity | Google Suite, Microsoft Office |
 
 </td>
