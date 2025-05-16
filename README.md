@@ -25,7 +25,7 @@
 |--------------|----------------------|
 | Programming  | Python, Java, JavaScript, SQL, Pandas, Matplotlib, NumPy, C# |
 | Web Design   | HTML, CSS, Weebly, Figma |
-| UX/UI / Design  | Canva, Adobe Creative Suite, Maya, Krita |
+| UX/UI / Design  | Canva, Adobe Illustrator/InDesign/Photoshop, Maya, Krita |
 | Productivity | Google Suite, Microsoft Office |
 
 </td>
