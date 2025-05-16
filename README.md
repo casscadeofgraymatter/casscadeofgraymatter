@@ -11,9 +11,7 @@
 ### ✨ About Me
 
 - 📍 Based in Pittsburgh, PA
-- 🎓 Pursuing a B.A. in Digital Narrative and Interactive Design at the University of Pittsburgh
-- 🧠 TRIO SSS LEAD Scholar
-- 📰 Content creator for the *Horror Matters* newsletter
+- 🎓 Pursuing a B.A. in Digital Narrative and Interactive Design 
 - 💡 Passionate about blending narrative design, programming, and ux/ui
 
 ---
