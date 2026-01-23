@@ -13,7 +13,7 @@
 - 📍 Based in Pennsylvania
 - 🎓 Pursuing a B.A. in Digital Narrative and Interactive Design 
 - 💡 Passionate about blending narrative design, programming, and ux/ui
-- 
+
 ---
 <table>
 <tr>
