@@ -51,13 +51,6 @@
 
 ---
 
-### 📫 Get in Touch
-![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
-![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
----
-
 ### 📈 GitHub Stats
 
 <img alt="stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=casscadeofgraymatter&show_icons=true"/>
