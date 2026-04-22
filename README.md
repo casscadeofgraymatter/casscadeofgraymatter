@@ -28,7 +28,7 @@ I'm a <strong>Digital Narrative & Interactive Design</strong> student at the Uni
 
 ---
 
-<h3 align="center">🛠️ My Toolbox</h3>
+<h3 align="center">🧙 My Spellbook</h3>
 
 <p align="center"><strong>Design</strong></p>
 <p align="center">
