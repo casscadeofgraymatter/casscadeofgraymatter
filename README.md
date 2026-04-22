@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img width="800" height="337" alt="1bcae0d8a2626a4e9c7557a1896147f2" src="https://github.com/user-attachments/assets/b6f34eb0-ef5d-4db7-8a33-220d99c0cd8d" />
+  <img width="800" height="337" alt="Heading (1)" src="https://github.com/user-attachments/assets/6dddfaa9-cb1f-4e6a-af7f-522534296f35" />
 </p>
 
 <!-- Connect Bar -->
