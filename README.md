@@ -59,7 +59,3 @@ I'm a <strong>Digital Narrative & Interactive Design</strong> student at the Uni
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 </p>
-
----
-
-<p align="center">Thanks for visiting my profile!</p>
