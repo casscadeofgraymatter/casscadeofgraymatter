@@ -3,11 +3,6 @@
   <img width="800" height="337" alt="1bcae0d8a2626a4e9c7557a1896147f2" src="https://github.com/user-attachments/assets/b6f34eb0-ef5d-4db7-8a33-220d99c0cd8d" />
 </p>
 
-<h2 align="center">DIGITAL NARRATIVE & INTERACTIVE DESIGN</h2>
-<p align="center">Figma &nbsp;|&nbsp; HTML/CSS &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; Python &nbsp;|&nbsp; Vue.js &nbsp;|&nbsp; Adobe CC</p>
-
----
-
 <!-- Connect Bar -->
 <p align="center">
   <a href="https://www.linkedin.com/in/cassandragray03/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,7 +13,6 @@
 </p>
 
 ---
-
 ### 👋 Hey, I'm Cassandra!
 
 I'm a **Digital Narrative & Interactive Design** student at the University of Pittsburgh with a passion for blending creativity and tech. I love building things that look good *and* work well. I've worn a lot of hats, and I'm always looking for the next creative challenge.
