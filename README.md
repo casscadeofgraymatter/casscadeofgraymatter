@@ -1,6 +1,7 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="<img width="800" height="337" alt="1bcae0d8a2626a4e9c7557a1896147f2" src="https://github.com/user-attachments/assets/2b4a6f76-8f92-4451-83b0-082c9ebf41e7"/>
+  <img width="800" height="337" alt="1bcae0d8a2626a4e9c7557a1896147f2" src="https://github.com/user-attachments/assets/b6f34eb0-ef5d-4db7-8a33-220d99c0cd8d" />
+"/>
 " />
 </p>
 
@@ -22,7 +23,7 @@
 
 ### 👋 Hey, I'm Cassandra!
 
-I'm a **Digital Narrative & Interactive Design** student at the University of Pittsburgh with a passion for blending creativity and tech. I love building things that look good *and* work well — whether that's designing sleek interfaces in Figma, experimenting with Vue.js and Node.js, or crafting stories that actually connect with people. From game design apprenticeships to Adobe workshops to horror-themed newsletters, I've worn a lot of hats — and I'm always looking for the next creative challenge. Let's make something cool. 🎨
+I'm a **Digital Narrative & Interactive Design** student at the University of Pittsburgh with a passion for blending creativity and tech. I love building things that look good *and* work well. I've worn a lot of hats, and I'm always looking for the next creative challenge.
 
 - 🔭 **Currently working on:** Building my design portfolio & exploring interactive storytelling
 - 🌱 **Currently learning:** Vue.js & advanced JavaScript
