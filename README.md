@@ -1,6 +1,7 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c2d77da-2181-4a8f-add1-c131d5ca8cf1" />
+  <img src="<img width="800" height="337" alt="1bcae0d8a2626a4e9c7557a1896147f2" src="https://github.com/user-attachments/assets/2b4a6f76-8f92-4451-83b0-082c9ebf41e7"/>
+" />
 </p>
 
 <h2 align="center">DIGITAL NARRATIVE & INTERACTIVE DESIGN</h2>
@@ -10,11 +11,11 @@
 
 <!-- Connect Bar -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cassandragray03/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_SITE-black?style=for-the-badge" /></a>
+  <a href=""><img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_SITE-black?style=for-the-badge" /></a>
   &nbsp;
-  <a href="mailto:cmg180@pitt.edu"><img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:cgray2840@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
