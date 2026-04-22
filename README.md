@@ -21,8 +21,8 @@ I'm a <strong>Digital Narrative & Interactive Design</strong> student at the Uni
 </p>
 
 <p align="center">
-🔭 <strong>Currently working on:</strong> Building my design portfolio & exploring interactive storytelling <br>
 🌱 <strong>Currently learning:</strong> Vue.js & advanced JavaScript <br>
+🔭 <strong>Currently working on:</strong> Building my design portfolio & exploring interactive storytelling <br>
 🐉 <strong>Fun fact:</strong> My creative writing revolves around fantasy worlds: dragons, Khajiits, Tabaxis, and the occasional gold heist included
 </p>
 
